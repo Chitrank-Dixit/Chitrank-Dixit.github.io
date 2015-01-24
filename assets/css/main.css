@@ -33,7 +33,19 @@ p {
 
 .centered {
     text-align: center;
+    margin-top: 200px;
 }
+
+.left {
+	text-align: left;
+	padding-bottom: 10px;
+}
+
+.right {
+	text-align: right;
+}
+
+
 
 /* Links */
 a {
